@@ -13,7 +13,8 @@
     "@rd/button": "^1.0.0",
     "@rd/input": "^1.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "repo-exercise": "^1.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
