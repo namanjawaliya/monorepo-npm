@@ -1,0 +1,6 @@
+[submodule "repo-exercise"]
+	path = repo-exercise
+	url = https://github.com/namanjawaliya/repo-exercise.git
+[submodule "packages/repo-exercise"]
+	path = packages/repo-exercise
+	url = https://github.com/namanjawaliya/repo-exercise.git
