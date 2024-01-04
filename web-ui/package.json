@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@rd/button": "^1.0.0",
-    "@rd/input": "^1.0.0",
+    "@rd/button": "1.0.3",
+    "@rd/input": "1.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "repo-exercise": "^1.0.0"
